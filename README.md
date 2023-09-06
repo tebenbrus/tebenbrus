@@ -15,6 +15,31 @@
 - 📫 How to reach me **bruceasis0@gmail.com**
 
 
+## Education
+- BS Computer Science <br>2021 - Present
+
+## Certification
+- [Oracle Cloud Data Management 2022](https://drive.google.com/file/d/1mOaB4KAcMN7a6TzqJLG5okRqcYjBXztQ/view?usp=sharing)
+  <br>Foundations Certified Associate
+  <br> December 03, 2022
+- [Oracle Cloud Infrastructure 2022](https://drive.google.com/file/d/11dtvOKSEVSXHvJawIPViCkoYhPWpnA9_/view?usp=sharing)
+  <br>Certified Foundations Associate
+  <br>November 21, 2022
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ab719190ae79449db125aa87b45bbae1)
+	<br>(DB0101EN, provided by IBM)
+	<br>November 3, 2022
+- [Hello World: Webinar Summit "Front-End Development using VueJs"](https://drive.google.com/file/d/1e3jtpFuWpP3CGofry4Vpgof44sF_UHwb/view?usp=sharing)
+  <br>November 15, 2022
+- [Hello World: Webinar Summit HR Management in IT/CS Organizations](https://drive.google.com/file/d/1L7FT9U_cBR77BmS4EQYsMU3gMwCLgkOI/view?usp=sharing)
+  <br>November 8, 2022
+- [Hello World: Webinar Summit - DATABASE MANAGEMENT AND DATA WAREHOUSING](https://drive.google.com/file/d/1ONXiLgnGx9NU4Fg9Z9rrdDthBM4XZLSj/view?usp=sharing)
+
+## Project
+- [Calculator](https://sites.google.com/view/stevenbruce/project)
+ 
+  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/steven-bruce-asis-234a3b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-bruce-asis-234a3b235" height="30" width="40" /></a>
@@ -30,4 +55,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tebenbrus&show_icons=true&locale=en" alt="tebenbrus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tebenbrus&" alt="tebenbrus" /></p>
+
+
+
 
