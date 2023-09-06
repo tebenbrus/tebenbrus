@@ -1,15 +1,14 @@
-[![MasterHead](https://media4.giphy.com/media/ZIqwksaQJdNknuI7JN/200.gif)]
+![MasterHead](https://th.bing.com/th/id/R.a79358d076a742d2527c867f5c31e422?rik=AaRH0LOTNVsjYw&riu=http%3a%2f%2fcrawforduniversity.edu.ng%2fconas%2fwp-content%2fuploads%2f2020%2f06%2fcomputer-science-header-1024x370.jpg&ehk=aaIl9gb0I1wIuePUmW312mJNtEZp3GEoV3bYp4qBsCU%3d&risl=&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Steven Bruce Asis</h1>
-<h3 align="center">A BS Computer Science student at New Era University</h3>
-<img align="right" alt="Coding" width= "400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<h3 align="center">BS Computer Science student at New Era University</h3>
+<img align="right" alt="Coding" width= "450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tebenbrus&label=Profile%20views&color=0e75b6&style=flat" alt="tebenbrus" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/stevenbruce/home](https://sites.google.com/view/stevenbruce/home)
+- 👨‍💻 All of my projects and certificates are available at [https://sites.google.com/view/stevenbruce/home](https://sites.google.com/view/stevenbruce/home)
 
 - 💬 Ask me about **Java**
 
