@@ -1,5 +1,5 @@
 ![MasterHead](https://th.bing.com/th/id/R.a79358d076a742d2527c867f5c31e422?rik=AaRH0LOTNVsjYw&riu=http%3a%2f%2fcrawforduniversity.edu.ng%2fconas%2fwp-content%2fuploads%2f2020%2f06%2fcomputer-science-header-1024x370.jpg&ehk=aaIl9gb0I1wIuePUmW312mJNtEZp3GEoV3bYp4qBsCU%3d&risl=&pid=ImgRaw&r=0)
-<h1 align="center">Hi 👋, I'm Steven Bruce Asis</h1>
+
 <h3 align="center">BS Computer Science student at New Era University</h3>
 <img align="right" alt="Coding" width= "450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
