@@ -18,7 +18,7 @@
 ## Education
 - BS Computer Science <br>2021 - Present
 
-## Certification
+## Professional Certification
 - [Introduction to Python](https://drive.google.com/file/d/1akuPj2Jj8omNQMm4q9X_kFz1RskYtETA/view?usp=drive_link)
   <br>(31445481, provided by DataCamp)
   <br>November 09, 2023
@@ -37,6 +37,8 @@
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ab719190ae79449db125aa87b45bbae1)
 	<br>(DB0101EN, provided by IBM)
 	<br>November 03, 2022
+
+## Seminar Certification
 - [Hello World: Webinar Summit "Front-End Development using VueJs"](https://drive.google.com/file/d/1e3jtpFuWpP3CGofry4Vpgof44sF_UHwb/view?usp=sharing)
   <br>November 15, 2022
 - [Hello World: Webinar Summit HR Management in IT/CS Organizations](https://drive.google.com/file/d/1L7FT9U_cBR77BmS4EQYsMU3gMwCLgkOI/view?usp=sharing)
