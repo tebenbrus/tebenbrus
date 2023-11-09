@@ -20,8 +20,11 @@
 
 ## Certification
 - [Introduction to Python](https://drive.google.com/file/d/1akuPj2Jj8omNQMm4q9X_kFz1RskYtETA/view?usp=drive_link)
-  <br>DataCamp
-  <br>November 9, 2023
+  <br>(31445481, provided by DataCamp)
+  <br>November 09, 2023
+- [Business Analytics with Excel](https://drive.google.com/file/d/1CNXBQ_vOad2lAGDRcjzRUThTTXZatn6p/view?usp=sharing)
+  <br>(4498199, provided by Simplilearn)
+  <br> September 07, 2023
 - [Oracle Cloud Data Management 2022](https://drive.google.com/file/d/1mOaB4KAcMN7a6TzqJLG5okRqcYjBXztQ/view?usp=sharing)
   <br>Foundations Certified Associate
   <br> December 03, 2022
@@ -30,11 +33,11 @@
   <br>November 21, 2022
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ab719190ae79449db125aa87b45bbae1)
 	<br>(DB0101EN, provided by IBM)
-	<br>November 3, 2022
+	<br>November 03, 2022
 - [Hello World: Webinar Summit "Front-End Development using VueJs"](https://drive.google.com/file/d/1e3jtpFuWpP3CGofry4Vpgof44sF_UHwb/view?usp=sharing)
   <br>November 15, 2022
 - [Hello World: Webinar Summit HR Management in IT/CS Organizations](https://drive.google.com/file/d/1L7FT9U_cBR77BmS4EQYsMU3gMwCLgkOI/view?usp=sharing)
-  <br>November 8, 2022
+  <br>November 08, 2022
 - [Hello World: Webinar Summit - DATABASE MANAGEMENT AND DATA WAREHOUSING](https://drive.google.com/file/d/1ONXiLgnGx9NU4Fg9Z9rrdDthBM4XZLSj/view?usp=sharing)
 
 ## Project
