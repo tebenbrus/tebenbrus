@@ -44,6 +44,7 @@
 - [Hello World: Webinar Summit HR Management in IT/CS Organizations](https://drive.google.com/file/d/1L7FT9U_cBR77BmS4EQYsMU3gMwCLgkOI/view?usp=sharing)
   <br>November 08, 2022
 - [Hello World: Webinar Summit - DATABASE MANAGEMENT AND DATA WAREHOUSING](https://drive.google.com/file/d/1ONXiLgnGx9NU4Fg9Z9rrdDthBM4XZLSj/view?usp=sharing)
+  <br>November 08, 2022
 
 ## Project
 - [Calculator](https://sites.google.com/view/stevenbruce/project)
