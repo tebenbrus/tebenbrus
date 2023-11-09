@@ -22,6 +22,9 @@
 - [Introduction to Python](https://drive.google.com/file/d/1akuPj2Jj8omNQMm4q9X_kFz1RskYtETA/view?usp=drive_link)
   <br>(31445481, provided by DataCamp)
   <br>November 09, 2023
+- [Data Analytics Essential](https://drive.google.com/file/d/1Uo0ZBdesvzq0jtCp24OQGXKP6wl3H20b/view?usp=sharing)
+  <br> Cisco Networking Academy
+  <br> September 24, 2023
 - [Business Analytics with Excel](https://drive.google.com/file/d/1CNXBQ_vOad2lAGDRcjzRUThTTXZatn6p/view?usp=sharing)
   <br>(4498199, provided by Simplilearn)
   <br> September 07, 2023
