@@ -19,7 +19,7 @@
 - BS Computer Science <br>2021 - Present
 
 ## Certification
-- [Introduction to Python](https://github.com/tebenbrus/tebenbrus/files/13302565/dataCamp_certificate.pdf)
+- [Introduction to Python](https://drive.google.com/file/d/1akuPj2Jj8omNQMm4q9X_kFz1RskYtETA/view?usp=drive_link)
   <br>DataCamp
   <br>November 9, 2023
 - [Oracle Cloud Data Management 2022](https://drive.google.com/file/d/1mOaB4KAcMN7a6TzqJLG5okRqcYjBXztQ/view?usp=sharing)
