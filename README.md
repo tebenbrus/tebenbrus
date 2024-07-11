@@ -6,9 +6,10 @@
    <img align="left" alt="Coding" width="400" src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo" style="border-radius: 10px; width: 200px;">
   </p>
 <p>I am currently a 4th year college student taking Bachelor of Science in Computer Science that attends New Era University. I would identify myself as hard-working, responsible, and persistent. </p>
+   <p><strong>Contact:</strong> </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
   <p><strong>Location:</strong> Quezon City, Philippines</p>
-   <p><strong>Contact:</strong> 
+  
     <a href="mailto:bruceasis0@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
