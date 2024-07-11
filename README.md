@@ -63,7 +63,8 @@
    *Description:* This project represents my inaugural endeavor in Power BI, completed as part of an activity in our Professional Elective course.
 2. **[Snack Report Using DAX](https://app.powerbi.com/view?r=eyJrIjoiZDg5MjcyZjMtNTFiNS00YzAxLThiYTEtZGVmNjI1ZTNmMzBkIiwidCI6ImYyMzg4ZmU5LWZlZmItNGYzNC05NDY5LTA0Yzk1ZjIzYThhOCIsImMiOjEwfQ%3D%3D)**  
    *Description:* In this project, I explored the use of DAX (Data Analysis Expressions) in Power BI.
-
+3. **[User of Professional Elective 4 Course](https://app.powerbi.com/view?r=eyJrIjoiMTcxYzEzZGUtNWQxOS00MTBhLWE2MDgtMDA4YThjZDJjMjk5IiwidCI6ImYyMzg4ZmU5LWZlZmItNGYzNC05NDY5LTA0Yzk1ZjIzYThhOCIsImMiOjEwfQ%3D%3D)**  
+   *Description:* In this project, I faced some challenges due to unclear instructions, but I believe I completed it correctly.
 
 
 ### Best Software Engineering Design Pattern Repositories
