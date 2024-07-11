@@ -1,22 +1,16 @@
-![MasterHead](https://th.bing.com/th/id/R.a79358d076a742d2527c867f5c31e422?rik=AaRH0LOTNVsjYw&riu=http%3a%2f%2fcrawforduniversity.edu.ng%2fconas%2fwp-content%2fuploads%2f2020%2f06%2fcomputer-science-header-1024x370.jpg&ehk=aaIl9gb0I1wIuePUmW312mJNtEZp3GEoV3bYp4qBsCU%3d&risl=&pid=ImgRaw&r=0)
-
-<h3 align="center">BS Computer Science student at New Era University</h3>
-<img align="right" alt="Coding" width= "450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tebenbrus&label=Profile%20views&color=0e75b6&style=flat" alt="tebenbrus" /> </p>
+# Your Name
+![idpic](https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8)
 
 
-- 🌱 I’m currently learning **Assembly**
+**Contact:** [bruceasis0@gmail.com]. | **Phone:** +63 9927239664
 
-- 👨‍💻 All of my projects and certificates are available at [https://sites.google.com/view/stevenbruce/home](https://sites.google.com/view/stevenbruce/home)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **bruceasis0@gmail.com**
-
+--------------------------------
 
 ## Education
-- BS Computer Science <br>2021 - Present
+**Bachelor of Science in Computer Science**  
+*New Era University*, 2025  
+
+--------------------------------
 
 ## Professional Certification
 - [Introduction to Python](https://drive.google.com/file/d/1akuPj2Jj8omNQMm4q9X_kFz1RskYtETA/view?usp=drive_link)
@@ -38,36 +32,51 @@
 	<br>(DB0101EN, provided by IBM)
 	<br>November 03, 2022
 
-## Seminar Certification
-- [Hello World: Webinar Summit "Front-End Development using VueJs"](https://drive.google.com/file/d/1e3jtpFuWpP3CGofry4Vpgof44sF_UHwb/view?usp=sharing)
-  <br>November 15, 2022
-- [Hello World: Webinar Summit HR Management in IT/CS Organizations](https://drive.google.com/file/d/1L7FT9U_cBR77BmS4EQYsMU3gMwCLgkOI/view?usp=sharing)
-  <br>November 08, 2022
-- [Hello World: Webinar Summit - DATABASE MANAGEMENT AND DATA WAREHOUSING](https://drive.google.com/file/d/1ONXiLgnGx9NU4Fg9Z9rrdDthBM4XZLSj/view?usp=sharing)
-  <br>November 08, 2022
+--------------------------------
 
-## Project
-- [Calculator](https://sites.google.com/view/stevenbruce/project)
- 
-  
+## Technical Achievements
 
+### Best Power BI Projects
+1. **[Soda Report for the Year 2022]([https://app.powerbi.com/view?r=eyJrIjoiNjUxNjg2YWUtZjgwYy00OTkyLWJlY2ItOGMxMjhkYjZkMjI0IiwidCI6ImYyMzg4ZmU5LWZlZmItNGYzNC05NDY5LTA0Yzk1ZjIzYThhOCIsImMiOjEwfQ%3D%3D])**  
+   *Description:* This project represents my inaugural endeavor in Power BI, completed as part of an activity in our Professional Elective course.
+2. **[Snack Report Using Dax]([https://app.powerbi.com/view?r=eyJrIjoiZDg5MjcyZjMtNTFiNS00YzAxLThiYTEtZGVmNjI1ZTNmMzBkIiwidCI6ImYyMzg4ZmU5LWZlZmItNGYzNC05NDY5LTA0Yzk1ZjIzYThhOCIsImMiOjEwfQ%3D%3D])**  
+   *Description:* In this project, I explored the use of DAX (Data Analysis Expressions) in Power BI
+3. **[User of Professional Elective 4 Course]([https://app.powerbi.com/view?r=eyJrIjoiMTcxYzEzZGUtNWQxOS00MTBhLWE2MDgtMDA4YThjZDJjMjk5IiwidCI6ImYyMzg4ZmU5LWZlZmItNGYzNC05NDY5LTA0Yzk1ZjIzYThhOCIsImMiOjEwfQ%3D%3D])**  
+   *Description:* In this project, I faced some challenges due to unclear instructions, but I believe I completed it correctly.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/steven-bruce-asis-234a3b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-bruce-asis-234a3b235" height="30" width="40" /></a>
-<a href="https://fb.com/tebenbrus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tebenbrus" height="30" width="40" /></a>
-<a href="https://instagram.com/stebeeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stebeeen" height="30" width="40" /></a>
-</p>
+### Best Software Engineering Design Pattern Repositories
+1. **[Strategy Pattern]([(https://github.com/tebenbrus/StrategyPattern.git])**  
+2. **[Visitor Pattern]([https://github.com/tebenbrus/VisitorPattern.git])**  
+3. **[Decorator Pattern]([https://github.com/tebenbrus/DecoratorPattern.git])**  
+4. **[Observer Pattern]([https://github.com/tebenbrus/ObserverPattern.git])**  
+5. **[State Pattern]([https://github.com/tebenbrus/StatePattern.git])**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Other Accomplishments
+- **[Calculator](https://sites.google.com/view/stevenbruce/project)**, Calculator that is following the PEMDAS rule using 3 Different Algorithm (Recursion, Divide-Shift and Subtract, Russian Peasant Multiplication).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tebenbrus&show_icons=true&locale=en&layout=compact" alt="tebenbrus" /></p>
+--------------------------------
 
+## Skill Set
 
+**Data Visualization Tools:**  
+- Power BI Desktop
+- Tableau Public
+- Excel
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tebenbrus&" alt="tebenbrus" /></p>
+**Programming Languages:**  
+- Java
+- Python
+- PHP
+- SQL
 
+**DBMS:**  
+- DB2
 
-
-
+**Dev Tools:**  
+- JasperSoft Studio
+- Lucidchart
+- Eclipse
+- IntelliJ
+- PyCharm
+- Jupyter Notebook
+- Visual Studio Code
