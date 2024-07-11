@@ -12,6 +12,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
+<p>I am currently a 4th year college student taking Bachelor of Science in Computer Science that attends New Era University. I would identify myself as hard-working, responsible, and persistent. </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
   <p><strong>Location:</strong> Quezon City, Philippines</p>
 </div>
