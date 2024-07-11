@@ -9,7 +9,6 @@
    <p><strong>Contact:</strong> </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
   <p><strong>Location:</strong> Quezon City, Philippines</p>
-  
     <a href="mailto:bruceasis0@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
