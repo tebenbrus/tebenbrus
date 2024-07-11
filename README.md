@@ -24,12 +24,13 @@
 ---
 
 ## Education
-- **Bachelor of Science in Computer Science**  
- *New Era University*, 2025
-  
-- **Science, Techonology, Engineering, and Mathematics**
-     *Lagro High School*, 2019-2021
 
+- **Bachelor of Science in Computer Science**  
+  *New Era University*, 2025
+  
+- **Science, Technology, Engineering, and Mathematics**  
+  *Lagro High School*, 2019-2021
+  
 ---
 
 ## Professional Certification
