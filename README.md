@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #2e2e2e;
-      color: #ffffff;
-      padding: 20px;
-    }
-    .container {
-      display: flex;
-      justify-content: flex-start;
-      align-items: flex-start;
-    }
-    .details {
-      flex: 1;
-      padding-right: 20px;
-    }
-    .photo {
-      flex: 0 0 auto;
-      padding-left: 20px;
-    }
-    .photo img {
-      border-radius: 10px;
-      width: 200px;
-    }
-    h1 {
-      font-size: 2em;
-      margin: 0;
-    }
-    p {
-      margin: 5px 0;
-    }
-  </style>
-</head>
-<body>
+
   <div class="container">
     <div class="details">
       <h1>Steven Bruce C. Asis</h1>
