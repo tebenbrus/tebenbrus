@@ -15,7 +15,7 @@
   <p><strong>Location:</strong> Quezon City, Philippines</p>
 </div>
 
-<div style="flex: 0 0 auto; padding-left: 20px;">
+<div style="flex: 0 0 auto; padding-left: 20px; align="left"">
   <img src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo" style="border-radius: 10px; width: 200px;">
 </div>
 
