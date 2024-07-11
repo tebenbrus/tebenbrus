@@ -29,7 +29,7 @@
   
 - **Science, Techonology, Engineering, and Mathematics**
   
- *Lagro High School*, 2019-2021
+ - *Lagro High School*, 2019-2021
 
 ---
 
