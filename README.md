@@ -2,9 +2,10 @@
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-  <h1 style="font-size: 2em; margin: 0;">Steven Bruce C. Asis</h1>
-   <img align="left" alt="Coding" width="400" src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo" style="border-radius: 10px; width: 200px;">
-  </p>
+   
+
+<img align="left" alt="Coding" width="400" src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo" style="border-radius: 10px; width: 200px;">
+<p> <b><h3>Steven Bruce C. Asis</b></h3></p>
 <p>I am currently a 4th year college student taking Bachelor of Science in Computer Science that attends New Era University. I would identify myself as hard-working, responsible, and persistent. </p>
    <p><strong>Contact:</strong> </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
