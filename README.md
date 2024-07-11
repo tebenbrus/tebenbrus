@@ -19,17 +19,15 @@
             <img src="https://img.shields.io/badge/Google_Site-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Site">
           </a>
 </div>
-
-
-
 </div>
-
 
 ---
 
 ## Education
 **Bachelor of Science in Computer Science**  
-*New Era University*, 2025  
+*New Era University*, 2025
+**Science, Techonology, Engineering, and Mathematics** 
+*Lagro High School*, 2019-2021
 
 ---
 
