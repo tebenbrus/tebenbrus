@@ -27,7 +27,8 @@
 - **Bachelor of Science in Computer Science**  
  *New Era University*, 2025
   
-- **Science, Techonology, Engineering, and Mathematics** 
+- **Science, Techonology, Engineering, and Mathematics**
+  
  *Lagro High School*, 2019-2021
 
 ---
