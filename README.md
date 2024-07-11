@@ -10,9 +10,7 @@
     <a href="https://www.linkedin.com/in/steven-bruce-asis-234a3b235/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a align ="Right">
-<img src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo" style="border-radius: 10px; width: 200px;">
-    </a>
+
   </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
   <p><strong>Location:</strong> Quezon City, Philippines</p>
