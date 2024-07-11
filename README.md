@@ -8,13 +8,16 @@
 <p>I am currently a 4th year college student taking Bachelor of Science in Computer Science that attends New Era University. I would identify myself as hard-working, responsible, and persistent. </p>
    <p><strong>Contact:</strong> </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
-  <p><strong>Location:</strong> Quezon City, Philippines</p>
+  <p><strong>Location:</strong> Doña Nicasia Quezon City, Philippines</p>
     <a href="mailto:bruceasis0@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/steven-bruce-asis-234a3b235/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+  <a href="https://sites.google.com/view/stevenbruce/home?authuser=0">
+            <img src="https://img.shields.io/badge/Google_Site-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Site">
+          </a>
 </div>
 
 
