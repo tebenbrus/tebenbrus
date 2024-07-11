@@ -1,23 +1,25 @@
 
-  <div class="container">
-    <div class="details">
-      <h1>Steven Bruce C. Asis</h1>
-      <p><strong>Contact:</strong> 
-        <a href="mailto:bruceasis0@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
-        <a href="https://www.linkedin.com/in/steven-bruce-asis-234a3b235/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </p>
-      <p><strong>Phone:</strong> +63 9927239664</p>
-      <p><strong>Location:</strong> Quezon City, Philippines</p>
-    </div>
-    <div class="photo">
-      <img src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo">
-    </div>
-  </div>
+<div style="display: flex; align-items: center;">
 
+<div style="flex: 1; padding-right: 20px;">
+  <h1 style="font-size: 2em; margin: 0;">Steven Bruce C. Asis</h1>
+  <p><strong>Contact:</strong> 
+    <a href="mailto:bruceasis0@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/steven-bruce-asis-234a3b235/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+  <p><strong>Phone:</strong> +63 9927239664</p>
+  <p><strong>Location:</strong> Quezon City, Philippines</p>
+</div>
+
+<div style="flex: 0 0 auto;">
+  <img src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo" style="border-radius: 10px; width: 200px;">
+</div>
+
+</div>
 
 
 ---
