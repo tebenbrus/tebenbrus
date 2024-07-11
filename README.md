@@ -2,7 +2,7 @@
 <div align="center">
   <table style="width: 80%; border: none;">
     <tr>
-      <td style="width: 70%; text-align: left;">
+      <td style="width: 90%; text-align: left;">
         <h1>Steven Bruce C. Asis</h1>
         <p><strong>Contact:</strong> 
           <a href="mailto:bruceasis0@gmail.com">
@@ -15,7 +15,7 @@
         <p><strong>Phone:</strong> +63 9927239664</p>
         <p><strong>Location:</strong> Quezon City, Philippines</p>
       </td>
-      <td style="width: 30%; text-align: center;">
+      <td style="width: 50%; text-align: center;">
         <img src="https://github.com/tebenbrus/tebenbrus/assets/114350433/8d8c80f4-1946-4f76-9f68-40981c0e82d8" alt="Professional Photo" width="200">
       </td>
     </tr>
