@@ -1,4 +1,4 @@
-# Steven Bruce C. Asis
+
 <table>
   <tr>
     <td>
