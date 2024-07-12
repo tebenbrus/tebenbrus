@@ -5,8 +5,8 @@
    
 
 
-<p> <b><h3>Steven Bruce C. Asis</b></h3></p>
-<p>I am currently a 4th year college student taking Bachelor of Science in Computer Science that attends New Era University. I would identify myself as hard-working, responsible, and persistent. </p>
+
+<p>I am currently a <b>4th Year college student</b> taking Bachelor of Science in Computer Science that attends New Era University. I would identify myself as hard-working, responsible, and persistent. </p>
    <p><strong>Contact:</strong> </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
   <p><strong>Location:</strong> Doña Nicasia Quezon City, Philippines</p>
