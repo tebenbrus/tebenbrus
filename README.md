@@ -6,7 +6,7 @@
 
 
 
-<p>I am currently a <b>4th Year college student</b> taking Bachelor of Science in Computer Science that attends New Era University. I would identify myself as hard-working, responsible, and persistent. </p>
+<p>Enthusiastic and detail-oriented Computer Science graduate, with practical experience in Quality Assurance. Proficient in Java and SQL, with foundational knowledge of business intelligence tools such as Power BI and Tableau. Eager to grow in a collaborative team environment while delivering high-quality results and continuously improving both technical and analytical skills.</p>
    <p><strong>Contact:</strong> </p>
   <p><strong>Phone:</strong> +63 9927239664</p>
   <p><strong>Location:</strong> Doña Nicasia Quezon City, Philippines</p>
