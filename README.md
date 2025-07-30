@@ -8,7 +8,7 @@
 
 <p>Enthusiastic and detail-oriented Computer Science graduate, with practical experience in Quality Assurance. Proficient in Java and SQL, with foundational knowledge of business intelligence tools such as Power BI and Tableau. Eager to grow in a collaborative team environment while delivering high-quality results and continuously improving both technical and analytical skills.</p>
    <p><strong>Contact:</strong> </p>
-  <p><strong>Phone:</strong> +63 9927239664</p>
+  <p><strong>Phone:</strong> +63 9451604330</p>
   <p><strong>Location:</strong> Doña Nicasia Quezon City, Philippines</p>
     <a href="mailto:bruceasis0@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
